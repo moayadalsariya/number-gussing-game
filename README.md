@@ -11,6 +11,7 @@ Basic AI guessing game with OpenCV and Keras
 * OpenCV
 * Keras
 * Tensorflow
+* CNN image classification 
 
 ## Requirements
 * Python3
